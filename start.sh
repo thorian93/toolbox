@@ -9,9 +9,6 @@ echo '# You will find preinstalled the following tools:'
 echo '# - ansible'
 echo '# - packer'
 echo '# - terraform'
-echo '#'
-echo '# If you used the docker-compose.yml to mount'
-echo '# your project, you will find it in this folder.'
 echo '####################################################'
 
 /bin/bash
